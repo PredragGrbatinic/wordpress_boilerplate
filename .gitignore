@@ -1,0 +1,16 @@
+.idea
+.phpintel/
+*.sublime-project
+*.sublime-workspace
+*.DS_Store
+
+.sass-cache
+_work
+/wp-content/themes/boilerplate/sources/node_modules
+node_modules/*
+npm-debug.log
+
+wp-config.php
+/wp-content/uploads/
+
+.htaccess
