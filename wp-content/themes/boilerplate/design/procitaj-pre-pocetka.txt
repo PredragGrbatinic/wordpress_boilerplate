@@ -1,1 +1,0 @@
-ovde samo html fajlove stavljati i gadjati css i js folder u rootu teme
